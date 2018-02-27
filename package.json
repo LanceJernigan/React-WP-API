@@ -1,0 +1,9 @@
+{
+  "name": "React-WP-API",
+  "version": "0.0.1",
+  "description": "React component for interacting with the Wordpress API",
+  "main": "index.js",
+  "repository": "https://github.com/LanceJernigan/React-WP-API.git",
+  "author": "LanceJernigan <Lance Jernigan <Lance@LanceJernigan.com>>",
+  "license": "MIT"
+}
